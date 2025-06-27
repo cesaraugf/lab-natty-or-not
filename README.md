@@ -17,10 +17,8 @@ Estrutura de arquivos:
 
 - projeto-fake-natty/
   - README.md
-  - assets/
-    - foto-base.jpg
-  - output/
-    - video-gerado.mp4
+  - imagem-utilizada.jpg
+  - video-gerado.mp4
 
 
 ---
